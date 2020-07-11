@@ -69,3 +69,9 @@ $(window).load(function(){
     $('.preloader-wrap').fadeOut();
     $('body').removeClass('preloader-site');
 });
+
+
+
+
+
+
