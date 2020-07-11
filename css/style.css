@@ -23342,6 +23342,7 @@ p {
 .footer-bg {
   position: relative;
   z-index: 1;
+  height: 100%;
 }
 
 .footer-bg:before {
@@ -23409,7 +23410,7 @@ p {
 .footer-list.list-inline li a {
   color: #dbe4f1;
   font-size: 12px;
-  font-weight: 400;
+  font-weight: 400px;
   line-height: 18px;
 }
 
